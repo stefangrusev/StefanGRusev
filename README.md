@@ -3,7 +3,7 @@
 - I've got into programming a bit later. :upside_down_face:
 - I've been traveling the world for seven years before the pandemic started but home country is Bulgaria and I'm living in Karnobat currently. 
 - 👀 I’m interested in Learning!
-- 
+ 
  ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
