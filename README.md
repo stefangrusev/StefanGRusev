@@ -9,7 +9,7 @@
  ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
  ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  
-### Feel free to contact me also in:
+### Feel free to reach me up also in:
 <a href="https://www.linkedin.com/in/stefan-rusev-2b657822b/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
 ### Some statistic for my GitHub profile:
