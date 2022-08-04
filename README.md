@@ -4,18 +4,19 @@
 -  I've been traveling the world for seven years before the pandemic started. Home country is Bulgaria and I'm in Karnobat currently. 
 -  👀 I’m interested in learning and creating!
  
- ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
- ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
- ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
- 
  Currently on:
+
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
+   </a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/97783740/170877386-e79c36be-c77a-46af-89d8-8e1bba576f52.png" alt="dotnet" width="40" height="40">
    </a>
  
 - ### Feel free to reach me up also in:
-<a href="https://www.linkedin.com/in/stefan-rusev-2b657822b/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+</a>
+      <a href="https://www.linkedin.com/in/stefan-rusev-2b657822b/" target="blank">
+         <img align="center" src="https://user-images.githubusercontent.com/97783740/169655216-657e260b-a971-44ed-9e2c-52fcba72954c.png" alt="borislav chernev" height="32" width="32">
+      </a>
  
 - ### Some statistic for my GitHub profile:
 <p>
